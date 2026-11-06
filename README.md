@@ -4,11 +4,7 @@
 
 <br/>
 
-<!-- ============ DESCRIPTION — modifie librement le texte ci-dessous (Markdown accepté) ============ -->
-
 # Big fan of Nothing's Interface :3
-
-<!-- ============ FIN DESCRIPTION ============ -->
 
 <br/>
 
