@@ -4,6 +4,14 @@
 
 <br/>
 
+<!-- ============ DESCRIPTION — modifie librement le texte ci-dessous (Markdown accepté) ============ -->
+
+Écris ta description ici.
+
+<!-- ============ FIN DESCRIPTION ============ -->
+
+<br/>
+
 <img src="assets/status.svg" width="100%" alt="Status"/>
 
 <br/>
