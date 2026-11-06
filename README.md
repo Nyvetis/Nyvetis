@@ -8,16 +8,7 @@
 
 <br/>
 
-<img src="assets/stack.svg" width="100%" alt="Stack"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nyvetis&show_icons=true&hide_border=true&bg_color=1B1B1D&title_color=D71921&text_color=FFFFFF&icon_color=FFFFFF&border_radius=28&hide_title=false&custom_title=STATS" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyvetis&layout=compact&hide_border=true&bg_color=1B1B1D&title_color=D71921&text_color=FFFFFF&border_radius=28&custom_title=LANGS" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyvetis&bg_color=1B1B1D&color=FFFFFF&line=D71921&point=FFFFFF&area=true&area_color=D71921&hide_border=true&radius=28" width="100%"/>
+<img src="assets/stack.svg" width="100%" alt="Stack — Python, JavaScript, TypeScript, PHP, HTML, CSS, React, Vue, Node.js, Tailwind, PostgreSQL, MySQL/MariaDB, MongoDB, Docker, Git/GitHub, Linux/Bash, VS Code, JetBrains, Figma, Trello"/>
 
 <br/><br/>
 

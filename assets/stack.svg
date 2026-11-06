@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120"><circle cx="50" cy="60" r="50" fill="#1B1B1D"/><text x="50" y="67" text-anchor="middle" fill="#fff" font-size="20" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="1">PY</text><circle cx="173" cy="60" r="50" fill="#1B1B1D"/><text x="173" y="67" text-anchor="middle" fill="#fff" font-size="20" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="1">JS</text><circle cx="297" cy="60" r="50" fill="#1B1B1D"/><text x="297" y="67" text-anchor="middle" fill="#fff" font-size="20" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="1">TS</text><circle cx="420" cy="60" r="50" fill="#1B1B1D"/><text x="420" y="67" text-anchor="middle" fill="#D71921" font-size="20" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="1">RS</text><circle cx="543" cy="60" r="50" fill="#1B1B1D"/><text x="543" y="67" text-anchor="middle" fill="#fff" font-size="20" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="1">GO</text><circle cx="667" cy="60" r="50" fill="#1B1B1D"/><text x="667" y="67" text-anchor="middle" fill="#fff" font-size="20" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="1">GIT</text><circle cx="790" cy="60" r="50" fill="#1B1B1D"/><text x="790" y="67" text-anchor="middle" fill="#fff" font-size="20" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="1">LNX</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="390" viewBox="0 0 840 390">
+<rect x="0" y="10" width="840" height="370" rx="44" fill="#1B1B1D"/>
+<text x="56" y="76" fill="#D71921" font-size="18" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="3">STACK</text>
+<rect x="56" y="88" width="14" height="4" rx="2" fill="#2F6BFF"/>
+<text x="56" y="138" fill="#8A8A8E" font-size="13" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="2">LANGAGES</text>
+<circle cx="61" cy="174" r="4" fill="#fff"/><text x="76" y="180" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Python</text>
+<circle cx="61" cy="206" r="4" fill="#fff"/><text x="76" y="212" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">JavaScript</text>
+<circle cx="61" cy="238" r="4" fill="#fff"/><text x="76" y="244" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">TypeScript</text>
+<circle cx="61" cy="270" r="4" fill="#fff"/><text x="76" y="276" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">PHP</text>
+<circle cx="61" cy="302" r="4" fill="#fff"/><text x="76" y="308" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">HTML</text>
+<circle cx="61" cy="334" r="4" fill="#fff"/><text x="76" y="340" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">CSS</text>
+<line x1="220" y1="118" x2="220" y2="346" stroke="#3A3A3C" stroke-width="2"/>
+<text x="238" y="138" fill="#8A8A8E" font-size="13" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="2">FRONT / BACK</text>
+<circle cx="243" cy="174" r="4" fill="#fff"/><text x="258" y="180" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">React</text>
+<circle cx="243" cy="206" r="4" fill="#fff"/><text x="258" y="212" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Vue</text>
+<circle cx="243" cy="238" r="4" fill="#fff"/><text x="258" y="244" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Node.js</text>
+<circle cx="243" cy="270" r="4" fill="#fff"/><text x="258" y="276" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Tailwind</text>
+<line x1="402" y1="118" x2="402" y2="346" stroke="#3A3A3C" stroke-width="2"/>
+<text x="420" y="138" fill="#8A8A8E" font-size="13" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="2">DATA / INFRA</text>
+<circle cx="425" cy="174" r="4" fill="#fff"/><text x="440" y="180" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">PostgreSQL</text>
+<circle cx="425" cy="206" r="4" fill="#fff"/><text x="440" y="212" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">MySQL / MariaDB</text>
+<circle cx="425" cy="238" r="4" fill="#fff"/><text x="440" y="244" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">MongoDB</text>
+<circle cx="425" cy="270" r="4" fill="#fff"/><text x="440" y="276" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Docker</text>
+<line x1="584" y1="118" x2="584" y2="346" stroke="#3A3A3C" stroke-width="2"/>
+<text x="602" y="138" fill="#8A8A8E" font-size="13" font-family="SF Mono,Menlo,Consolas,monospace" letter-spacing="2">OUTILS</text>
+<circle cx="607" cy="174" r="4" fill="#fff"/><text x="622" y="180" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Git / GitHub</text>
+<circle cx="607" cy="206" r="4" fill="#fff"/><text x="622" y="212" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Linux / Bash</text>
+<circle cx="607" cy="238" r="4" fill="#fff"/><text x="622" y="244" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">VS Code</text>
+<circle cx="607" cy="270" r="4" fill="#fff"/><text x="622" y="276" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">JetBrains</text>
+<circle cx="607" cy="302" r="4" fill="#fff"/><text x="622" y="308" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Figma</text>
+<circle cx="607" cy="334" r="4" fill="#fff"/><text x="622" y="340" fill="#fff" font-size="18" font-family="Helvetica Neue,Arial,sans-serif">Trello</text>
+</svg>
