@@ -6,13 +6,13 @@
 
 <br/>
 
-> 👋 I'm leo, a junior developer located in Rennes, and studying in development.
->
-> I love playing video games, mainly Minecraft.
->
-> I'm a big fan of Nothing's minimalist interface, and that's what inspired this README.
->
-> Im very curious and still figuring out if i want to work on A.I or Cybersecurity.
+👋 I'm leo, a junior developer located in Rennes, and studying in development.
+
+I love playing video games, mainly Minecraft.
+
+I'm a big fan of Nothing's minimalist interface, and that's what inspired this README.
+
+Im very curious and still figuring out if i want to work on A.I or Cybersecurity.
 
 <br/>
 
